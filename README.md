@@ -1,2 +1,11 @@
 # CareerOneStop-Scholarship-Page-Parsing-Crawling
-CareerOneStop: https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx?curPage=1&amp;studyLevelfilter=High%20School  Parse initial page w/ scholarship name, level of study, award amount, deadline  Further parse filters: level of study, where you live, where you will study, affiliation required
+
+## Task Description
+
+Parse the iniital page with scholarship name, link, award amount, and deadline.
+
+The target page is https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx?curPage=1&studyLevelfilter=High%20School
+
+To run the project, the site name, link, and XPaths for the award name, link, award amount, and deadline should be stored in an initial csv file.
+Make sure to change the paths to an actual path on your machine.
+The data should be outputted to a csv file.
